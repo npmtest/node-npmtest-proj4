@@ -1,1 +1,40 @@
-{     "devDependencies": {         "proj4": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-proj4",     "homepage": "https://github.com/npmtest/node-npmtest-proj4",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-proj4.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### test coverage for  [proj4 (v2.4.3)](https://github.com/proj4js/proj4js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-proj4.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-proj4) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-proj4.svg)](https://travis-ci.org/npmtest/node-npmtest-proj4)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "proj4": "*",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-proj4",
+    "keywords": [
+        "coverage",
+        "test",
+        "proj4"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_proj4.js",
+    "name": "npmtest-proj4",
+    "nameAlias": "npmtest_proj4",
+    "nameOriginal": "npmtest-proj4",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-proj4.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
