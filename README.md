@@ -1,6 +1,6 @@
 # npmtest-proj4
 
-#### test coverage for  [proj4 (v2.4.3)](https://github.com/proj4js/proj4js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-proj4.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-proj4) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-proj4.svg)](https://travis-ci.org/npmtest/node-npmtest-proj4)
+#### basic test coverage for  [proj4 (v2.4.3)](https://github.com/proj4js/proj4js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-proj4.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-proj4) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-proj4.svg)](https://travis-ci.org/npmtest/node-npmtest-proj4)
 
 #### Proj4js is a JavaScript library to transform point coordinates from one coordinate system to another, including datum transformations.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-proj4/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-proj4/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-proj4/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-proj4/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-proj4/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-proj4/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-proj4/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-proj4/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-proj4/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-proj4/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-proj4/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-proj4/build/coverage.html/index.html)
 
@@ -117,7 +117,8 @@
         "build:tmerc": "grunt build:tmerc",
         "test": "npm run build && istanbul test _mocha test/test.js"
     },
-    "version": "2.4.3"
+    "version": "2.4.3",
+    "bin": {}
 }
 ```
 
