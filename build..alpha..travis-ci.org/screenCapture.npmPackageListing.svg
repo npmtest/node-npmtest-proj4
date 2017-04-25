@@ -1,119 +1,119 @@
 <svg height="1854" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1854" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 12:00:39 +0000   444313 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 12:00:39 +0000      549 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 12:00:39 +0000     2778 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 12:00:39 +0000     1452 bytes  LICENSE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 12:00:39 +0000      451 bytes  PUBLISHING.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 12:00:39 +0000     5487 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 12:00:39 +0000     2232 bytes  REFERENCES.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 12:00:39 +0000      521 bytes  bower.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 12:00:39 +0000      829 bytes  changelog.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 12:00:39 +0000      395 bytes  component.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 12:00:39 +0000   160865 bytes  dist/proj4-src.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 12:00:39 +0000    71123 bytes  dist/proj4.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 12:00:39 +0000      894 bytes  lib/Point.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 12:00:39 +0000     2192 bytes  lib/Proj.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 12:00:39 +0000      954 bytes  lib/adjust_axis.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 12:00:39 +0000      102 bytes  lib/common/acosh.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 12:00:39 +0000      170 bytes  lib/common/adjust_lat.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 12:00:39 +0000      171 bytes  lib/common/adjust_lon.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 12:00:39 +0000      285 bytes  lib/common/adjust_zone.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 12:00:39 +0000      120 bytes  lib/common/asinh.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 12:00:39 +0000      188 bytes  lib/common/asinhy.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 12:00:39 +0000      108 bytes  lib/common/asinz.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 12:00:39 +0000       72 bytes  lib/common/atanh.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 12:00:39 +0000      259 bytes  lib/common/clens.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 12:00:39 +0000      690 bytes  lib/common/clens_cmplx.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 12:00:39 +0000       88 bytes  lib/common/cosh.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 12:00:39 +0000       87 bytes  lib/common/e0fn.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 12:00:39 +0000       89 bytes  lib/common/e1fn.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 12:00:39 +0000       78 bytes  lib/common/e2fn.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 12:00:39 +0000       66 bytes  lib/common/e3fn.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 12:00:39 +0000      131 bytes  lib/common/fL.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 12:00:39 +0000      107 bytes  lib/common/gN.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 12:00:39 +0000      260 bytes  lib/common/gatg.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 12:00:39 +0000      183 bytes  lib/common/hypot.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 12:00:39 +0000      503 bytes  lib/common/imlfn.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 12:00:39 +0000      617 bytes  lib/common/inverseNadCvt.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 12:00:39 +0000      307 bytes  lib/common/invlatiso.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 12:00:39 +0000      909 bytes  lib/common/iqsfnz.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 12:00:39 +0000      419 bytes  lib/common/latiso.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 12:00:39 +0000      110 bytes  lib/common/log1py.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 12:00:39 +0000      144 bytes  lib/common/mlfn.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 12:00:39 +0000      126 bytes  lib/common/msfnz.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 12:00:39 +0000      559 bytes  lib/common/nadInterBreakout.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 12:00:39 +0000      604 bytes  lib/common/nad_cvt.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 12:00:39 +0000     1410 bytes  lib/common/nad_intr.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 12:00:39 +0000      480 bytes  lib/common/phi2z.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 12:00:39 +0000      609 bytes  lib/common/pj_enfn.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 12:00:39 +0000      625 bytes  lib/common/pj_inv_mlfn.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 12:00:39 +0000      170 bytes  lib/common/pj_mlfn.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 12:00:39 +0000      264 bytes  lib/common/qsfnz.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 12:00:39 +0000       53 bytes  lib/common/sign.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 12:00:39 +0000       88 bytes  lib/common/sinh.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 12:00:39 +0000       92 bytes  lib/common/srat.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 12:00:39 +0000       98 bytes  lib/common/tanh.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 12:00:39 +0000      200 bytes  lib/common/toPoint.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 12:00:39 +0000      248 bytes  lib/common/tsfnz.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 12:00:39 +0000     1941 bytes  lib/constants/Datum.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 12:00:39 +0000     3890 bytes  lib/constants/Ellipsoid.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 12:00:39 +0000      700 bytes  lib/constants/PrimeMeridian.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 12:00:39 +0000       81 bytes  lib/constants/units.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 12:00:39 +0000      965 bytes  lib/constants/values.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 12:00:39 +0000     1419 bytes  lib/core.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 12:00:39 +0000     1076 bytes  lib/datum.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 12:00:39 +0000     8472 bytes  lib/datumUtils.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 12:00:39 +0000     1482 bytes  lib/datum_transform.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 12:00:39 +0000     1138 bytes  lib/defs.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 12:00:39 +0000     1026 bytes  lib/deriveConstants.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 12:00:39 +0000      311 bytes  lib/extend.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 12:00:39 +0000      691 bytes  lib/global.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 12:00:39 +0000     1230 bytes  lib/includedProjections.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 12:00:39 +0000      581 bytes  lib/index.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 12:00:39 +0000      444 bytes  lib/match.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 12:00:39 +0000      837 bytes  lib/parseCode.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 12:00:39 +0000     3192 bytes  lib/projString.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 12:00:39 +0000      706 bytes  lib/projections.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 12:00:39 +0000     3414 bytes  lib/projections/aea.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 12:00:39 +0000     6689 bytes  lib/projections/aeqd.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 12:00:39 +0000     2925 bytes  lib/projections/cass.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 12:00:39 +0000     1798 bytes  lib/projections/cea.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 12:00:39 +0000     1223 bytes  lib/projections/eqc.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 12:00:39 +0000     3130 bytes  lib/projections/eqdc.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 12:00:39 +0000     1052 bytes  lib/projections/equi.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 12:00:39 +0000     4903 bytes  lib/projections/etmerc.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 12:00:39 +0000     1399 bytes  lib/projections/gauss.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 12:00:39 +0000     2772 bytes  lib/projections/gnom.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 12:00:39 +0000     1958 bytes  lib/projections/gstmerc.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 12:00:39 +0000     3388 bytes  lib/projections/krovak.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 12:00:39 +0000     7595 bytes  lib/projections/laea.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 12:00:39 +0000     3950 bytes  lib/projections/lcc.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 12:00:39 +0000      284 bytes  lib/projections/longlat.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 12:00:39 +0000     2342 bytes  lib/projections/merc.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 12:00:39 +0000     1306 bytes  lib/projections/mill.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 12:00:39 +0000     2234 bytes  lib/projections/moll.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 12:00:39 +0000     6008 bytes  lib/projections/nzmg.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 12:00:39 +0000     5320 bytes  lib/projections/omerc.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 12:00:39 +0000     2378 bytes  lib/projections/ortho.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 12:00:39 +0000     4048 bytes  lib/projections/poly.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 12:00:39 +0000     2680 bytes  lib/projections/sinu.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 12:00:39 +0000     2953 bytes  lib/projections/somerc.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 12:00:39 +0000     5494 bytes  lib/projections/stere.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 12:00:39 +0000     1656 bytes  lib/projections/sterea.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 12:00:39 +0000     4535 bytes  lib/projections/tmerc.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 12:00:39 +0000      692 bytes  lib/projections/utm.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 12:00:39 +0000     3221 bytes  lib/projections/vandg.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 12:00:39 +0000     2242 bytes  lib/transform.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 12:00:39 +0000       52 bytes  lib/version.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 12:00:39 +0000     3380 bytes  package.json</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 12:00:39 +0000     1953 bytes  projs.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 12:00:39 +0000      407 bytes  publish.sh</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 12:00:39 +0000     1559 bytes  test/amd.html</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 12:00:39 +0000      705 bytes  test/opt.html</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 12:00:39 +0000       35 bytes  test/package.json.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 12:00:39 +0000    15329 bytes  test/test.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 12:00:39 +0000    34511 bytes  test/testData.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 12:20:36 +0000   444313 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 12:20:36 +0000      549 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 12:20:36 +0000     2778 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 12:20:36 +0000     1452 bytes  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 12:20:36 +0000      451 bytes  PUBLISHING.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 12:20:36 +0000     5487 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 12:20:36 +0000     2232 bytes  REFERENCES.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 12:20:36 +0000      521 bytes  bower.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 12:20:36 +0000      829 bytes  changelog.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 12:20:36 +0000      395 bytes  component.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 12:20:36 +0000   160865 bytes  dist/proj4-src.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 12:20:36 +0000    71123 bytes  dist/proj4.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 12:20:36 +0000      894 bytes  lib/Point.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 12:20:36 +0000     2192 bytes  lib/Proj.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 12:20:36 +0000      954 bytes  lib/adjust_axis.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 12:20:36 +0000      102 bytes  lib/common/acosh.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 12:20:36 +0000      170 bytes  lib/common/adjust_lat.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 12:20:36 +0000      171 bytes  lib/common/adjust_lon.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 12:20:36 +0000      285 bytes  lib/common/adjust_zone.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 12:20:36 +0000      120 bytes  lib/common/asinh.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 12:20:36 +0000      188 bytes  lib/common/asinhy.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 12:20:36 +0000      108 bytes  lib/common/asinz.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 12:20:36 +0000       72 bytes  lib/common/atanh.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 12:20:36 +0000      259 bytes  lib/common/clens.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 12:20:36 +0000      690 bytes  lib/common/clens_cmplx.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 12:20:36 +0000       88 bytes  lib/common/cosh.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 12:20:36 +0000       87 bytes  lib/common/e0fn.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 12:20:36 +0000       89 bytes  lib/common/e1fn.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 12:20:36 +0000       78 bytes  lib/common/e2fn.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 12:20:36 +0000       66 bytes  lib/common/e3fn.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 12:20:36 +0000      131 bytes  lib/common/fL.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 12:20:36 +0000      107 bytes  lib/common/gN.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 12:20:36 +0000      260 bytes  lib/common/gatg.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 12:20:36 +0000      183 bytes  lib/common/hypot.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 12:20:36 +0000      503 bytes  lib/common/imlfn.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 12:20:36 +0000      617 bytes  lib/common/inverseNadCvt.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 12:20:36 +0000      307 bytes  lib/common/invlatiso.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 12:20:36 +0000      909 bytes  lib/common/iqsfnz.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 12:20:36 +0000      419 bytes  lib/common/latiso.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 12:20:36 +0000      110 bytes  lib/common/log1py.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 12:20:36 +0000      144 bytes  lib/common/mlfn.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 12:20:36 +0000      126 bytes  lib/common/msfnz.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 12:20:36 +0000      559 bytes  lib/common/nadInterBreakout.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 12:20:36 +0000      604 bytes  lib/common/nad_cvt.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 12:20:36 +0000     1410 bytes  lib/common/nad_intr.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 12:20:36 +0000      480 bytes  lib/common/phi2z.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 12:20:36 +0000      609 bytes  lib/common/pj_enfn.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 12:20:36 +0000      625 bytes  lib/common/pj_inv_mlfn.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 12:20:36 +0000      170 bytes  lib/common/pj_mlfn.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 12:20:36 +0000      264 bytes  lib/common/qsfnz.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 12:20:36 +0000       53 bytes  lib/common/sign.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 12:20:36 +0000       88 bytes  lib/common/sinh.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 12:20:36 +0000       92 bytes  lib/common/srat.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 12:20:36 +0000       98 bytes  lib/common/tanh.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 12:20:36 +0000      200 bytes  lib/common/toPoint.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 12:20:36 +0000      248 bytes  lib/common/tsfnz.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-25 12:20:36 +0000     1941 bytes  lib/constants/Datum.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-25 12:20:36 +0000     3890 bytes  lib/constants/Ellipsoid.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-25 12:20:36 +0000      700 bytes  lib/constants/PrimeMeridian.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-25 12:20:36 +0000       81 bytes  lib/constants/units.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-25 12:20:36 +0000      965 bytes  lib/constants/values.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-25 12:20:36 +0000     1419 bytes  lib/core.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-25 12:20:36 +0000     1076 bytes  lib/datum.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-25 12:20:36 +0000     8472 bytes  lib/datumUtils.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-25 12:20:36 +0000     1482 bytes  lib/datum_transform.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-25 12:20:36 +0000     1138 bytes  lib/defs.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-25 12:20:36 +0000     1026 bytes  lib/deriveConstants.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-25 12:20:36 +0000      311 bytes  lib/extend.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-25 12:20:36 +0000      691 bytes  lib/global.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-25 12:20:36 +0000     1230 bytes  lib/includedProjections.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-25 12:20:36 +0000      581 bytes  lib/index.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-25 12:20:36 +0000      444 bytes  lib/match.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-25 12:20:36 +0000      837 bytes  lib/parseCode.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-25 12:20:36 +0000     3192 bytes  lib/projString.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-25 12:20:36 +0000      706 bytes  lib/projections.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-25 12:20:36 +0000     3414 bytes  lib/projections/aea.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-25 12:20:36 +0000     6689 bytes  lib/projections/aeqd.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-25 12:20:36 +0000     2925 bytes  lib/projections/cass.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-25 12:20:36 +0000     1798 bytes  lib/projections/cea.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-25 12:20:36 +0000     1223 bytes  lib/projections/eqc.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-25 12:20:36 +0000     3130 bytes  lib/projections/eqdc.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-25 12:20:36 +0000     1052 bytes  lib/projections/equi.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-25 12:20:36 +0000     4903 bytes  lib/projections/etmerc.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-25 12:20:36 +0000     1399 bytes  lib/projections/gauss.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-25 12:20:36 +0000     2772 bytes  lib/projections/gnom.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-25 12:20:36 +0000     1958 bytes  lib/projections/gstmerc.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-25 12:20:36 +0000     3388 bytes  lib/projections/krovak.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-25 12:20:36 +0000     7595 bytes  lib/projections/laea.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-25 12:20:36 +0000     3950 bytes  lib/projections/lcc.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-25 12:20:36 +0000      284 bytes  lib/projections/longlat.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-25 12:20:36 +0000     2342 bytes  lib/projections/merc.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-25 12:20:36 +0000     1306 bytes  lib/projections/mill.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-25 12:20:36 +0000     2234 bytes  lib/projections/moll.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-25 12:20:36 +0000     6008 bytes  lib/projections/nzmg.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-25 12:20:36 +0000     5320 bytes  lib/projections/omerc.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-25 12:20:36 +0000     2378 bytes  lib/projections/ortho.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-25 12:20:36 +0000     4048 bytes  lib/projections/poly.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-25 12:20:36 +0000     2680 bytes  lib/projections/sinu.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-25 12:20:36 +0000     2953 bytes  lib/projections/somerc.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-25 12:20:36 +0000     5494 bytes  lib/projections/stere.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-25 12:20:36 +0000     1656 bytes  lib/projections/sterea.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-25 12:20:36 +0000     4535 bytes  lib/projections/tmerc.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-25 12:20:36 +0000      692 bytes  lib/projections/utm.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-25 12:20:36 +0000     3221 bytes  lib/projections/vandg.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-25 12:20:36 +0000     2242 bytes  lib/transform.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-25 12:20:36 +0000       52 bytes  lib/version.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-25 12:20:36 +0000     3380 bytes  package.json</tspan>
+<tspan x="10" y="1738">107.  2017-04-25 12:20:36 +0000     1953 bytes  projs.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-25 12:20:36 +0000      407 bytes  publish.sh</tspan>
+<tspan x="10" y="1770">109.  2017-04-25 12:20:36 +0000     1559 bytes  test/amd.html</tspan>
+<tspan x="10" y="1786">110.  2017-04-25 12:20:36 +0000      705 bytes  test/opt.html</tspan>
+<tspan x="10" y="1802">111.  2017-04-25 12:20:36 +0000       35 bytes  test/package.json.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-25 12:20:36 +0000    15329 bytes  test/test.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-25 12:20:36 +0000    34511 bytes  test/testData.js</tspan>
 </text>
 </svg>
